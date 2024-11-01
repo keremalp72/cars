@@ -1,0 +1,41 @@
+ul {
+  padding: 0px;
+}
+li {
+  list-style: none;
+}
+body {
+    background: url(images/Screenshot_2.png);
+}
+.container {
+    margin-top: 200px;
+  display: flex;
+  background-color: rgb(64, 31, 80);
+  padding: 10px;
+  border-radius: 25px;
+  text-align: center;
+  align-items: center;
+  justify-content: space-around;
+  box-shadow: 10px 10px 58px 0px rgba(255,0,0,1);
+  -webkit-box-shadow: 10px 10px 58px 0px rgba(255,0,0,1);
+  -moz-box-shadow: 10px 10px 58px 0px rgba(255,0,0,1);
+}
+
+.cars {
+  color: cornflowerblue;
+}
+#carNames {
+  color: darkcyan;
+}
+.model {
+  color: cornflowerblue;
+}
+#carModels {
+  color: darkcyan;
+}
+.color {
+  color: cornflowerblue;
+}
+#carsColor {
+  color: darkcyan;
+}
